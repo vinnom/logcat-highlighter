@@ -1,0 +1,3 @@
+name = "Logcat"
+grammar = "tree_sitter_logcat"
+path_suffixes = ["log", "logcat"]
