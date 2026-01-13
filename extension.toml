@@ -1,4 +1,4 @@
-id = "logcat-highlighter"
+id = "logcat"
 name = "Logcat Highlighter"
 version = "0.0.1"
 schema_version = 1
