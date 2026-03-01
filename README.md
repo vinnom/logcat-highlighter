@@ -18,8 +18,9 @@ This extension is compatible with editors that support Tree-sitter grammars.
 
 To use this extension in [Zed](https://zed.dev):
 
-1. Clone this repository.
-2. Link or copy it into your local Zed extensions directory.
+1. Search for it in Extensions page.
+2. Install.
+3. Be happy =)
 
 ## Usage
 
